@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Harvestify-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "skin care"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../New ideation"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New ideation"
+	}
+}
